@@ -100,6 +100,3 @@ This project allows users to **register, log in, and manage customer records** w
 - Access Django Admin Panel at: `/admin/`  
 
 ---
-
-## 📌 Screenshots (Optional)
-*(Add screenshots or GIFs here to make the README more appealing.)*  
